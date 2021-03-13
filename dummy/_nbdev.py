@@ -8,6 +8,6 @@ modules = []
 
 doc_url = "https://kai-tub.github.io/dummy/"
 
-git_url = "https://github.com/kai-tub/dummy/tree/master/"
+git_url = "https://github.com/kai-tub/dummy/tree/main/"
 
 def custom_doc_links(name): return None
